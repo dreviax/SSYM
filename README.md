@@ -1,6 +1,6 @@
-# 🎵 HarmonyFetch — Умный музыкальный ассистент
+# 🎵 SvagBox — Умный музыкальный ассистент
 
-![HarmonyFetch Banner](icons/icon.jpg)  
+![SvagBox Banner](icons/icon.jpg)  
 
 ## 🌟 Возможности
 
