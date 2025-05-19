@@ -67,7 +67,7 @@ def download_spotify_url(url):
 # YANDEX MUSIC FUNC
 def download_yandex_music_url(url):
     try:
-        client = Client("y0__xD-9vGMCBje-AYgn7D1lBMB7n0qNPdWIsP7Z5L1gg2QoiR0Mg").init()
+        client = Client("YOUR CLIENT ID").init()
         parsed = urlparse(url)
         path_parts = parsed.path.strip('/').split('/')
 
